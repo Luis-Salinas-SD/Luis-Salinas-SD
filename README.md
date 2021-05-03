@@ -13,6 +13,7 @@ Mis tecnologías favoritas son:
  - Linux
  
 [Mi sitio Web][1]
+
 [Mi currículum][2]
 
 
