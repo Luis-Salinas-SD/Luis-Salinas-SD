@@ -1,8 +1,8 @@
 # Bienvenidos a mi github :computer: :sunglasses:
+## ¡Hola me llamo Luis Salinas y soy Ingeniero en Informática! :grinning:
+Me gusta mucho el Desarrollo Web me considero un Frontend Developer Junior, diseñar y aprender tecnologías nuevas es algo que disfruto mucho.
 
-Me llamo **Luis Salinas**, soy Ingeniero en Informática y me gusta mucho el Desarrollo Web, me considero un Frontend Developer Junior, me gusta mucho diseñar y sobretodo aprender nuevas tecnologías.
-
-Mis tecnologías favoritas son:
+**Mis tecnologías favoritas son:** :white_check_mark:
 
  - HTML
  - CSS
@@ -12,9 +12,9 @@ Mis tecnologías favoritas son:
  - Bootstrap
  - Linux
  
-[Mi sitio Web][1]
+[Mi sitio Web][1] :email:
 
-[Mi currículum][2]
+[Mi currículum][2] :page_facing_up:
 
 
   [1]: https://galleta-site.netlify.app/
