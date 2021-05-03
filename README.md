@@ -1,4 +1,4 @@
-# Bienvenidos a mi github
+# Bienvenidos a mi github :computer: :sunglasses:
 
 Me llamo **Luis Salinas**, soy Ingeniero en Informática y me gusta mucho el Desarrollo Web, me considero un Frontend Developer Junior, me gusta mucho diseñar y sobretodo aprender nuevas tecnologías.
 
