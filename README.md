@@ -18,4 +18,4 @@ Me gusta mucho el Desarrollo Web me considero un Frontend Developer Junior, dise
 
 
   [1]: https://mellon-site.netlify.app/
-  [2]: https://luis-salinas-sd.github.io/resume-cv/
+  [2]: https://luis-salinas-sd.github.io/CV-Final-Tailwind/
