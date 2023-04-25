@@ -18,4 +18,4 @@ Me gusta mucho el Desarrollo Web me considero un Frontend Developer Junior, dise
 
 
   [1]: https://cerolineal.com.mx/
-  [2]: https://luis-salinas-sd.github.io/CV-Final-Tailwind/](https://cv.cerolineal.com.mx/
+  [2]: https://cv.cerolineal.com.mx/
