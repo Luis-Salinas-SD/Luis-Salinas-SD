@@ -12,7 +12,7 @@ Me gusta mucho el Desarrollo Web me considero un Frontend Developer Junior, dise
  - Bootstrap
  - Linux
  
-[Mi sitio Web][1] :email:
+[Mi portafolio Web][1] :email:
 
 [Mi currículum][2] :page_facing_up:
 
