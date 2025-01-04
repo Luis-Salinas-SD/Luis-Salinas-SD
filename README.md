@@ -17,5 +17,5 @@ Me gusta mucho el Desarrollo Web me considero un Frontend Developer Junior, dise
 [Mi currículum][2] :page_facing_up:
 
 
-  [1]: https://cerolineal.com.mx/
+  [1]: https://lusadev.com/
   [2]: https://cv.cerolineal.com.mx/
